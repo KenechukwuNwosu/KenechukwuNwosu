@@ -36,3 +36,30 @@ R/tidyverse • tidymodels • Python/pandas • Biopython • Grouped Cross-Val
 
 **Visualization, GIS & Qualitative Methods**  
 ArcGIS • Plotly • NVivo • Thematic Analysis • Codebook Development • Research Dashboards
+
+
+## Featured Research & Projects
+
+### 🎙️ VoiceMark PD
+**Leakage-Aware Machine Learning for Parkinson's Classification from Acoustic Voice Biomarkers**
+
+Rebuilt a Parkinson's disease classification workflow in **R/tidymodels** using repeated voice recordings from 252 participants. Implemented participant-grouped train/test splitting and repeated grouped cross-validation to prevent repeated-measures data leakage, then compared six machine-learning classifiers.
+
+**Methods:** Machine Learning • Grouped Cross-Validation • Predictive Modeling • Model Validation • Permutation Importance  
+**Tools:** R • tidymodels • DALEX  
+**Data:** UCI Parkinson's Disease Classification Dataset
+
+> **Portfolio repository coming soon**
+
+---
+
+### 🏥 Claims to Cohorts
+**From Administrative Healthcare Data to Reproducible Analytic Cohorts in SAS**
+
+Built a reproducible **SAS healthcare claims analytics framework** using six complementary datasets spanning 1.8+ million enrollment, inpatient, professional, pharmacy, and hospital-discharge records. Transformed raw administrative data into analysis-ready cohorts across multiple clinical and health-services use cases while preserving transparent eligibility, denominator, coding, and data-governance logic.
+
+**Methods:** Cohort Construction • Claims-Based Phenotyping • Person-Time Denominators • Healthcare Utilization • Medication Exposure • Resource-Use Analysis • ICD-9/ICD-10 Portability  
+**Tools:** SAS • PROC SQL • DATA Step • ODS Graphics  
+**Data:** CMS DE-SynPUF • Pharmacy Claims • Texas THCIC Inpatient & Facility Data
+
+> **GitHub repository coming soon**
