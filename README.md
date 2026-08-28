@@ -53,7 +53,7 @@ Rebuilt a Parkinson's disease classification workflow in **R/tidymodels** using 
 
 ---
 
-### 🏥 Claims to Cohorts
+### 🏥 [Claims to Cohorts](https://github.com/KenechukwuNwosu/claims-to-cohorts)
 **From Administrative Healthcare Data to Reproducible Analytic Cohorts in SAS**
 
 Built a reproducible **SAS healthcare claims analytics framework** using six complementary datasets spanning 1.8+ million enrollment, inpatient, professional, pharmacy, and hospital-discharge records. Transformed raw administrative data into analysis-ready cohorts across multiple clinical and health-services use cases while preserving transparent eligibility, denominator, coding, and data-governance logic.
@@ -62,4 +62,4 @@ Built a reproducible **SAS healthcare claims analytics framework** using six com
 **Tools:** SAS • PROC SQL • DATA Step • ODS Graphics  
 **Data:** CMS DE-SynPUF • Pharmacy Claims • Texas THCIC Inpatient & Facility Data
 
-> **GitHub repository coming soon**
+[View the full Claims to Cohorts repository](https://github.com/KenechukwuNwosu/claims-to-cohorts)
