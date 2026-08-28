@@ -18,3 +18,21 @@ Currently, I work across **SAS, Stata, R, Python, SQL, Excel, ArcGIS, and NVivo*
 - **Clinical & Translational Research** — clinical research processes, human-subjects research, and translation of clinical and population data into actionable evidence
 - **Infectious Diseases & Global Health** — outbreak response, surveillance, community interventions, and infectious-disease research
 - **Data Science for Health Research** — statistical programming, predictive modeling, reproducible analytics, geospatial analysis, and research visualization
+
+
+## Technical Toolkit
+
+**Programming & Statistical Analysis**  
+SAS • Stata • R • Python • SQL • Excel • SQLite
+
+**Epidemiologic & Quantitative Methods**  
+Observational Study Design • Regression Analysis • Survey-Weighted Analysis • Disease Surveillance • Program Evaluation • Health Outcomes Analysis • Cost & ROI Analysis • Predictive Modeling • Model Validation
+
+**Health Data & Research Sources**  
+EHR • SEER • BRFSS • MEPS • National Survey of Children's Health (NSCH) • Program & Survey Data • PubMed
+
+**Data Science & Reproducible Research**  
+R/tidyverse • tidymodels • Python/pandas • Biopython • Grouped Cross-Validation • Machine Learning • Reproducible Analytical Workflows
+
+**Visualization, GIS & Qualitative Methods**  
+ArcGIS • Plotly • NVivo • Thematic Analysis • Codebook Development • Research Dashboards
