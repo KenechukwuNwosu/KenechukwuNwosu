@@ -40,16 +40,16 @@ ArcGIS • Plotly • NVivo • Thematic Analysis • Codebook Development • R
 
 ## Featured Research & Projects
 
-### 🎙️ VoiceMark PD
+### 🎙️ [VoiceMark PD](https://github.com/KenechukwuNwosu/voicemark-pd)
 **Leakage-Aware Machine Learning for Parkinson's Classification from Acoustic Voice Biomarkers**
 
-Rebuilt a Parkinson's disease classification workflow in **R/tidymodels** using repeated voice recordings from 252 participants. Implemented participant-grouped train/test splitting and repeated grouped cross-validation to prevent repeated-measures data leakage, then compared six machine-learning classifiers.
+Rebuilt a Parkinson's disease classification workflow in **R/tidymodels** using repeated voice recordings from 252 participants. Implemented participant-grouped train/test splitting and repeated grouped cross-validation to prevent repeated-measures leakage, then compared six machine-learning classifiers under a common validation framework.
 
 **Methods:** Machine Learning • Grouped Cross-Validation • Predictive Modeling • Model Validation • Permutation Importance  
 **Tools:** R • tidymodels • DALEX  
 **Data:** UCI Parkinson's Disease Classification Dataset
 
-> **Portfolio repository coming soon**
+[View the full VoiceMark PD repository](https://github.com/KenechukwuNwosu/voicemark-pd)
 
 ---
 
