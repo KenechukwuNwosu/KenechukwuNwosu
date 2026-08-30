@@ -1,12 +1,10 @@
 # Kenechukwu O. S. Nwosu, MBBS, MPH
 
-### Physician-Epidemiologist | Epidemiology | Health Outcomes & Real-World Evidence | Clinical & Population Health Research
+### Physician-Epidemiologist | Real-World Evidence & Health Outcomes Research | Observational Health Data Analytics
 
-I am a physician-epidemiologist and PhD candidate in Epidemiology at UTHealth Houston, with experience spanning epidemiologic research, health outcomes and program evaluation, infectious disease response, clinical practice, and quantitative and mixed-methods research.
+I am a physician-epidemiologist and PhD candidate in Epidemiology at UTHealth Houston, specializing in real-world evidence, health outcomes research, and observational health data analytics. I use epidemiologic design and reproducible computational methods to transform claims, EHR, survey, clinical, and population health data into evidence for healthcare and research decision-making.
 
-My work focuses on using rigorous epidemiologic, statistical, and computational methods to transform health data into evidence that can inform research, programs, and population health decisions.
-
-Currently, I work across **SAS, Stata, R, Python, SQL, Excel, ArcGIS, and NVivo**, with a growing portfolio of reproducible research projects in epidemiology, health outcomes research, machine learning, geospatial analysis, and research informatics.
+My portfolio demonstrates SAS-based claims cohort construction, leakage-aware biomedical machine learning in R, survey-weighted epidemiology, cancer outcomes research, program evaluation, and research informatics.
 
 
 ## Research & Professional Interests
@@ -22,20 +20,20 @@ Currently, I work across **SAS, Stata, R, Python, SQL, Excel, ArcGIS, and NVivo*
 
 ## Technical Toolkit
 
-**Programming & Statistical Analysis**  
-SAS • Stata • R • Python • SQL • Excel • SQLite
+**Real-World Evidence & Cohort Analytics**
+SAS • SQL • Administrative Claims • EHR • Cohort Construction • Claims-Based Phenotyping • Healthcare Utilization • Cost & ROI Analysis
 
-**Epidemiologic & Quantitative Methods**  
-Observational Study Design • Regression Analysis • Survey-Weighted Analysis • Disease Surveillance • Program Evaluation • Health Outcomes Analysis • Cost & ROI Analysis • Predictive Modeling • Model Validation
+**Epidemiologic & Outcomes Research**
+Observational Study Design • Regression Analysis • Survey-Weighted Analysis • Disease Surveillance • Program Evaluation • Health Outcomes Analysis
 
-**Health Data & Research Sources**  
-EHR • SEER • BRFSS • MEPS • National Survey of Children's Health (NSCH) • Program & Survey Data • PubMed
+**Predictive Modeling & Reproducible Research**
+R • tidyverse • tidymodels • Machine Learning • Grouped Cross-Validation • Model Validation • Reproducible Analytical Workflows
 
-**Data Science & Reproducible Research**  
-R/tidyverse • tidymodels • Python/pandas • Biopython • Grouped Cross-Validation • Machine Learning • Reproducible Analytical Workflows
+**Research Data, Programming & Communication**
+Stata • Python/pandas • Excel • SQLite • SEER • BRFSS • HINTS • MEPS • NSCH • Biopython/PubMed • Plotly • Research Dashboards
 
-**Visualization, GIS & Qualitative Methods**  
-ArcGIS • Plotly • NVivo • Thematic Analysis • Codebook Development • Research Dashboards
+**GIS & Mixed Methods**
+ArcGIS • NVivo • Geospatial Analysis • Thematic Analysis • Codebook Development • Data Visualization
 
 
 ## Featured Research & Projects
@@ -48,6 +46,7 @@ Built a reproducible **SAS healthcare claims analytics framework** using six com
 **Methods:** Cohort Construction • Claims-Based Phenotyping • Person-Time Denominators • Healthcare Utilization • Medication Exposure • Resource-Use Analysis • ICD-9/ICD-10 Portability  
 **Tools:** SAS • PROC SQL • DATA Step • ODS Graphics  
 **Data:** CMS DE-SynPUF • Pharmacy Claims • Texas THCIC Inpatient & Facility Data
+**Biopharma Relevance:** Demonstrates foundational real-world data methods for defining observable populations, constructing clinical phenotypes, characterizing medication exposure, and measuring healthcare utilization and resource use.
 
 [View the full Claims to Cohorts repository](https://github.com/KenechukwuNwosu/claims-to-cohorts)
 
@@ -61,5 +60,6 @@ Rebuilt a Parkinson's disease classification workflow in **R/tidymodels** using 
 **Methods:** Machine Learning • Grouped Cross-Validation • Predictive Modeling • Model Validation • Permutation Importance  
 **Tools:** R • tidymodels • DALEX  
 **Data:** UCI Parkinson's Disease Classification Dataset
+**Biopharma Relevance:** Demonstrates how validation design can alter apparent biomedical model performance and why participant independence matters when evaluating evidence generated from repeated clinical measurements.
 
 [View the full VoiceMark PD repository](https://github.com/KenechukwuNwosu/voicemark-pd)
