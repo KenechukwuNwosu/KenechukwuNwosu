@@ -9,30 +9,26 @@ My portfolio demonstrates SAS-based claims cohort construction, leakage-aware bi
 
 ## Research & Professional Interests
 
-- **Real-World Evidence & Health Outcomes Research** — observational health data, healthcare utilization, outcomes, disparities, and evidence generation
-- **Epidemiology & Population Health** — observational research, disease surveillance, health disparities, and population-level risk factors
-- **Oncology & Cancer Outcomes Research** — cancer disparities, treatment patterns, healthcare access and utilization, survival outcomes, and population-based cancer research
-- **Program Evaluation & Implementation** — evaluation frameworks, KPIs, mixed methods, implementation barriers, cost and ROI analysis
-- **Clinical & Translational Research** — clinical research processes, human-subjects research, and translation of clinical and population data into actionable evidence
-- **Infectious Diseases & Global Health** — outbreak response, surveillance, community interventions, and infectious-disease research
-- **Data Science for Health Research** — statistical programming, predictive modeling, reproducible analytics, geospatial analysis, and research visualization
+* **Real-World Evidence & Health Outcomes Research** — healthcare utilization, treatment patterns, clinical and population outcomes, disparities, and decision-focused evidence generation
+* **Observational Health Data Analytics** — claims, EHR, survey, and population-health data; cohort construction; observational study design; statistical modeling; and reproducible analysis
+* **Oncology & Infectious-Disease Research** — cancer outcomes and disparities, healthcare access, infectious-disease surveillance, outbreak response, and community interventions
 
 
 ## Technical Toolkit
 
-**Real-World Evidence & Cohort Analytics**
+**Real-World Evidence & Cohort Analytics**  
 SAS • SQL • Administrative Claims • EHR • Cohort Construction • Claims-Based Phenotyping • Healthcare Utilization • Cost & ROI Analysis
 
-**Epidemiologic & Outcomes Research**
+**Epidemiologic & Outcomes Research**  
 Observational Study Design • Regression Analysis • Survey-Weighted Analysis • Disease Surveillance • Program Evaluation • Health Outcomes Analysis
 
-**Predictive Modeling & Reproducible Research**
+**Predictive Modeling & Reproducible Research**  
 R • tidyverse • tidymodels • Machine Learning • Grouped Cross-Validation • Model Validation • Reproducible Analytical Workflows
 
-**Research Data, Programming & Communication**
+**Research Data, Programming & Communication**  
 Stata • Python/pandas • Excel • SQLite • SEER • BRFSS • HINTS • MEPS • NSCH • Biopython/PubMed • Plotly • Research Dashboards
 
-**GIS & Mixed Methods**
+**GIS & Mixed Methods**  
 ArcGIS • NVivo • Geospatial Analysis • Thematic Analysis • Codebook Development • Data Visualization
 
 
