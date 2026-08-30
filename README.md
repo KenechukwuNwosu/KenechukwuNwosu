@@ -46,6 +46,7 @@ Built a reproducible **SAS healthcare claims analytics framework** using six com
 **Methods:** Cohort Construction • Claims-Based Phenotyping • Person-Time Denominators • Healthcare Utilization • Medication Exposure • Resource-Use Analysis • ICD-9/ICD-10 Portability  
 **Tools:** SAS • PROC SQL • DATA Step • ODS Graphics  
 **Data:** CMS DE-SynPUF • Pharmacy Claims • Texas THCIC Inpatient & Facility Data
+
 **Biopharma Relevance:** Demonstrates foundational real-world data methods for defining observable populations, constructing clinical phenotypes, characterizing medication exposure, and measuring healthcare utilization and resource use.
 
 [View the full Claims to Cohorts repository](https://github.com/KenechukwuNwosu/claims-to-cohorts)
@@ -60,6 +61,7 @@ Rebuilt a Parkinson's disease classification workflow in **R/tidymodels** using 
 **Methods:** Machine Learning • Grouped Cross-Validation • Predictive Modeling • Model Validation • Permutation Importance  
 **Tools:** R • tidymodels • DALEX  
 **Data:** UCI Parkinson's Disease Classification Dataset
+
 **Biopharma Relevance:** Demonstrates how validation design can alter apparent biomedical model performance and why participant independence matters when evaluating evidence generated from repeated clinical measurements.
 
 [View the full VoiceMark PD repository](https://github.com/KenechukwuNwosu/voicemark-pd)
