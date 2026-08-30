@@ -40,19 +40,6 @@ ArcGIS • Plotly • NVivo • Thematic Analysis • Codebook Development • R
 
 ## Featured Research & Projects
 
-### 🎙️ [VoiceMark PD](https://github.com/KenechukwuNwosu/voicemark-pd)
-**Leakage-Aware Machine Learning for Parkinson's Classification from Acoustic Voice Biomarkers**
-
-Rebuilt a Parkinson's disease classification workflow in **R/tidymodels** using repeated voice recordings from 252 participants. Implemented participant-grouped train/test splitting and repeated grouped cross-validation to prevent repeated-measures leakage, then compared six machine-learning classifiers under a common validation framework.
-
-**Methods:** Machine Learning • Grouped Cross-Validation • Predictive Modeling • Model Validation • Permutation Importance  
-**Tools:** R • tidymodels • DALEX  
-**Data:** UCI Parkinson's Disease Classification Dataset
-
-[View the full VoiceMark PD repository](https://github.com/KenechukwuNwosu/voicemark-pd)
-
----
-
 ### 🏥 [Claims to Cohorts](https://github.com/KenechukwuNwosu/claims-to-cohorts)
 **From Administrative Healthcare Data to Reproducible Analytic Cohorts in SAS**
 
@@ -63,3 +50,16 @@ Built a reproducible **SAS healthcare claims analytics framework** using six com
 **Data:** CMS DE-SynPUF • Pharmacy Claims • Texas THCIC Inpatient & Facility Data
 
 [View the full Claims to Cohorts repository](https://github.com/KenechukwuNwosu/claims-to-cohorts)
+
+---
+
+### 🎙️ [VoiceMark PD](https://github.com/KenechukwuNwosu/voicemark-pd)
+**Leakage-Aware Machine Learning for Parkinson's Classification from Acoustic Voice Biomarkers**
+
+Rebuilt a Parkinson's disease classification workflow in **R/tidymodels** using repeated voice recordings from 252 participants. Implemented participant-grouped train/test splitting and repeated grouped cross-validation to prevent repeated-measures leakage, then compared six machine-learning classifiers under a common validation framework.
+
+**Methods:** Machine Learning • Grouped Cross-Validation • Predictive Modeling • Model Validation • Permutation Importance  
+**Tools:** R • tidymodels • DALEX  
+**Data:** UCI Parkinson's Disease Classification Dataset
+
+[View the full VoiceMark PD repository](https://github.com/KenechukwuNwosu/voicemark-pd)
